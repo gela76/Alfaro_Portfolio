@@ -357,7 +357,6 @@ nav ul li a:hover {
 .resume-bio {
   padding: 20px 24px 20px 0;
   border-right: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
 }
 
 .resume-bio h3 {
