@@ -462,6 +462,7 @@ nav ul li a:hover {
   border-right: 1px solid var(--line);
 }
 .resume-skills h4 {
+  padding: 20px 24px 20px 0;
   text-align: left;
 }
 .tech-icons {
@@ -498,7 +499,6 @@ nav ul li a:hover {
 }
 
 .tech-item span {
-  padding: 20px 24px 20px 0;
   font-size: 9px;
   color: var(--text-muted);
   font-family: Arial, sans-serif;
