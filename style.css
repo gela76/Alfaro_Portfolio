@@ -503,35 +503,6 @@ nav ul li a:hover {
   box-shadow: 0 8px 18px rgba(255, 77, 166, 0.3);
 }
 
-.resume-hobbies {
-  padding: 20px 0 20px 24px;
-  background: linear-gradient(135deg, rgba(255, 77, 166, 0.04), rgba(255, 77, 166, 0.1));
-}
-
-.hobby-icons {
-  display: flex;
-  gap: 14px;
-  font-size: 22px;
-  flex-wrap: wrap;
-}
-
-.hobby-icons span {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 42px;
-  height: 42px;
-  background: #1c0d15;
-  border-radius: 50%;
-  transition: all 0.3s ease;
-}
-
-.hobby-icons span:hover {
-  background: var(--pink);
-  color: #0a0a0a;
-  transform: translateY(-5px) rotate(5deg);
-  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.04);
-}
 #work {
   padding: 110px 40px;
   background: linear-gradient(135deg, #000000 0%, #1a0712 50%, #0d0509 100%);
