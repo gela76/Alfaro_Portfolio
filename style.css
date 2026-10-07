@@ -413,6 +413,10 @@ nav ul li a:hover {
   line-height: 1.7;
   font-family: Arial, sans-serif;
 }
+.resume-skills {
+  padding: 20px 0 12px 24px;
+  border-bottom: 1px solid var(--line);
+}
 
 .resume-language {
   padding: 20px 0 20px 24px;
