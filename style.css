@@ -461,6 +461,15 @@ nav ul li a:hover {
   padding: 20px 24px 20px 0;
   border-right: 1px solid var(--line);
 }
+.resume-skills h4 {
+  text-align: center;
+}
+.tech-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* add this */
+  gap: 12px;
+}
 
 .tech-icons {
   display: flex;
