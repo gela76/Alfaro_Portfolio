@@ -498,6 +498,7 @@ nav ul li a:hover {
 }
 
 .tech-item span {
+  padding: 20px 24px 20px 0;
   font-size: 9px;
   color: var(--text-muted);
   font-family: Arial, sans-serif;
