@@ -723,15 +723,36 @@ nav ul li a:hover {
   border-radius: 8px;
   box-shadow: 0 8px 32px rgba(255, 77, 166, 0.25);
   flex-shrink: 0;
+
+
+  #about-card {
+  scroll-margin-top: 70px;
 }
 
-footer {
+  .nav-links {
+  gap: 14px;
+}
+
+
+}footer {
   background-color: #050005;
   color: var(--text-muted);
   text-align: center;
-  padding: 60px 40px 32px;
+  padding: 100px 40px 32px;
   font-family: Arial, sans-serif;
   border-top: 1px solid var(--line);
+
+  min-height: 100vh;          /* fills the full screen height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;    /* centers the content vertically */
+}
+
+.footer-inner {
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+
 }
 
 .footer-inner {
