@@ -417,7 +417,7 @@ nav ul li a:hover {
 
 .resume-language {
   padding: 20px 0 20px 24px;
-  border-bottom: 1px solid var(--line);
+  
 }
 
 .lang-item {
@@ -455,7 +455,7 @@ nav ul li a:hover {
   font-weight: 600;
   width: 32px;
   text-align: right;
-  
+
 }.resume-skills {
   padding: 20px 0 20px 24px;
   border-right: none;
