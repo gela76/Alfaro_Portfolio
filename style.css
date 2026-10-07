@@ -462,8 +462,8 @@ nav ul li a:hover {
 
 }.resume-skills {
   padding: 20px 0 20px 24px;
+  align-self: stretch;
   border-right: none;
-  align-self: start;
 }
 
 .resume-skills h4 {
